@@ -82,7 +82,7 @@
               <text value="Cari Nama"/>
             </properties>
           </component>
-          <component id="54463" class="javax.swing.JTextField" binding="textField1" default-binding="true">
+          <component id="54463" class="javax.swing.JTextField" binding="cariTextField">
             <constraints border-constraint="Center"/>
             <properties/>
           </component>
